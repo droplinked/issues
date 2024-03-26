@@ -1,4 +1,4 @@
-# droplinked(https://droplinked.com) Bug Reporting
+# droplinked Bug Reporting
 
 Welcome to the droplinked ecosystem bug reporting repository! We're dedicated to creating an outstanding user experience and your contributions play a key role in achieving this goal. By reporting bugs and glitches, you're helping us to enhance our ecosystem and ensuring it's stable, efficient, and enjoyable for everyone.
 
