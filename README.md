@@ -1,7 +1,8 @@
 [![Droplinked](https://droplinked.com/static/media/green-droplinked-logo.edeb621b337561c89c6dcdc614d9850b.svg)](https://droplinked.com)
 
+➡️ [**Click here to report issues**](https://github.com/droplinked/issues/issues) ⬅️
 
-Welcome to the droplinked ecosystem [!(bug reporting repository)(https://github.com/droplinked/issues/issues)] We're dedicated to creating an outstanding user experience and your contributions play a key role in achieving this goal. By reporting bugs and glitches, you're helping us to enhance our ecosystem and ensuring it's stable, efficient, and enjoyable for everyone.
+Welcome to the droplinked ecosystem [bug reporting repository](https://github.com/droplinked/issues/issues) We're dedicated to creating an outstanding user experience and your contributions play a key role in achieving this goal. By reporting bugs and glitches, you're helping us to enhance our ecosystem and ensuring it's stable, efficient, and enjoyable for everyone.
 
 ## How to Report a Bug
 
