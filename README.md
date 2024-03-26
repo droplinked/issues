@@ -1,4 +1,4 @@
-# droplinked Bug Reporting
+[![Droplinked](https://droplinked.com/static/media/green-droplinked-logo.edeb621b337561c89c6dcdc614d9850b.svg)](https://droplinked.com)
 
 Welcome to the droplinked ecosystem bug reporting repository! We're dedicated to creating an outstanding user experience and your contributions play a key role in achieving this goal. By reporting bugs and glitches, you're helping us to enhance our ecosystem and ensuring it's stable, efficient, and enjoyable for everyone.
 
