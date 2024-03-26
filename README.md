@@ -34,4 +34,4 @@ Thank you for contributing to droplinked(https://droplinked.com)! Your support a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20us-blue)](https://www.linkedin.com/company/droplinked)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20%40Droplinked-orange)](https://instagram.com/drop.linked)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCfIz9d7XvIbTKgEVnMvk0Cw)
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289da)]([https://discord.gg/droplinked](https://discord.com/channels/1068939465025916959/1088500920406515763))
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289da)](https://discord.com/channels/1068939465025916959/1088500920406515763)
